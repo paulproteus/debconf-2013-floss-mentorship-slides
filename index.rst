@@ -619,6 +619,8 @@ MediaWiki community health
 MediaWiki community health
 ====
 
+.. rst-class:: build
+
 * Engineering metrics in June
 
   * 116 unique committers contributed patchsets of code to MediaWiki.
