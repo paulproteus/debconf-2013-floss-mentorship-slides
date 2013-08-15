@@ -130,7 +130,11 @@ Lessons:
 Fedora Design Bounties
 =====
 
-* rofl
+.. rst-class:: build
+
+* Show an example
+
+* See also, Starling bounties.
 
 Wikipedia Teahouse (2012)
 =======
@@ -190,7 +194,7 @@ LibreOffice EasyHacks
 
 * Keyword on bug tracker
 
-* 
+* Also, a wiki page: https://wiki.documentfoundation.org/Development/Easy_Hacks
 
 Upstream University
 ======
@@ -206,25 +210,11 @@ Ubuntu Developer Advisory Team
 
 * Greet new contributors
 
-* Contact lost contributors
-
 * Encourage people to apply
 
+* Contact lost contributors
 
-Ubuntu Developer Advisory Team
-====
-
-.. rst-class:: build
-
-* This team in terms of UbuntuDevelopment, tries to fulfill the following tasks in the Ubuntu world:
-
-* Reach out to new contributors, thank them for their work and get feedback.
-
-* Reach out to people who might be ready to apply for upload rights and help them.
-
-* Reach out to contributors that went inactive and get feedback from them and offer help.
-
-Source: their homepage, last edited 2012-04-02.
+* Source: their homepage, last edited 2012-04-02.
 
 Ubuntu DAT: New Contributor Report
 ====
@@ -241,7 +231,9 @@ Ubuntu DAT: New Contributor Report
 
 * Contributing is a "surprisingly painless process"
 
-* Real magic is in the Trello cards...
+* (See also Lucas's similar survey on debian-project.)
+
+* Real magic is in the contributor tracking...
 
 Concepts about mentorship programs
 ========
